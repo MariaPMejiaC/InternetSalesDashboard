@@ -2,7 +2,7 @@
 
 
 ## Overview
-This Power BI dashboard was developed in response to a request from the Sales Manager, Steven, to enhance sales reporting and transition from static reports to a dynamic, interactive dashboard. The dashboard offers a comprehensive overview of internet sales data, highlighting performance across products, customers, time periods, and sales representatives. It enables the sales team to track trends, monitor progress against budget targets, and identify high-performing areas and opportunities for growth.
+This Power BI dashboard was developed to enhance sales reporting and transition from static reports to a dynamic, interactive dashboard. The dashboard offers a comprehensive overview of internet sales data, highlighting performance across products, customers, time periods, and sales representatives. It enables the sales team to track trends, monitor progress against budget targets, and identify high-performing areas and opportunities for growth.
 
 ## Business Objectives
 - Replace static sales reports with an interactive Power BI dashboard.
